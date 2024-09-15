@@ -35,7 +35,7 @@ A aplicação desenvolvida neste projeto é um app gerenciador de academia, o Gy
 
 A aplicação Web por sua vez é voltada para a gerência academia, onde funcionalidades, como: CRUDs de alunos, matrículas e planos foram implementados, além tela de ajuda aos alunos.
 
-Já aplicação mobile é direcionada aos alunos da academia, onde os mesmo poderão realizar check-ins, efetuar, listar e visualizar seus pedidos de ajuda com suas respectivas respostas.
+Já aplicação mobile é direcionada aos alunos da academia, onde os mesmos poderão realizar check-ins, efetuar, listar e visualizar seus pedidos de ajuda com suas respectivas respostas.
 
 ## 📥 Instalação e execução
 
