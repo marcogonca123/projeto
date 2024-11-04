@@ -51,7 +51,7 @@ Faça um clone desse repositório
   1. A partir da raiz do projeto, entre na pasta rodando `cd frontend`;
   2. Execute `npm install` para instalar as dependências;
   3. Execute `npm run start` para iniciar o servidor de desenvolvimento;
-  4. Abra `http://localhost:80` para ver o projeto no navegador.
+  4. Abra `http://localhost:8082` para ver o projeto no navegador.
 
   ### Mobile
   1. A partir da raiz do projeto, entre na pasta rodando `cd mobile`;
