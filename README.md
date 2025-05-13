@@ -42,7 +42,7 @@ Já aplicação mobile é direcionada aos alunos da academia, onde os mesmos pod
 Faça um clone desse repositório
 
   ### Backend
-  1. A partir da raíz do projeto, entre na pasta rodando `cd backend';
+  1. A partir da raíz do projeto, entre na pasta rodando 'cd backend';
   2. Execute `npm install` ou `yarn` para instalar as dependências;
   2. Execute `node ./init.js` para preencher as variáveis de ambiente;
   3. Execute `docker-compose up` para iniciar o servidor backend com todos os bancos de bados;
