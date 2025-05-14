@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2019 João Melo
+Copyright (c) 2025 Marcos Roberto
 
 É concedida permissão, gratuitamente, a qualquer pessoa que obtenha uma cópia
 deste software e arquivos de documentação associados (o "Software"), para lidar
